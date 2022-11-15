@@ -63,4 +63,3 @@ key = Entry(window,width=16, textvariable=entry_text)
 key.place(x=60, y=25)
 
 window.mainloop()
-print(key)
